@@ -5,4 +5,4 @@ Developer with emphasis on scalable web interfaces and data-driven visualization
 - Backend:      Node.js, Python (FastAPI, Django)
 - Database:     PostgreSQL
 - Tools:        Docker, Linux
-- Exploring:    SolidJS, Go, Java
+- Exploring:    SolidJS, Go, Java, Spring Boot
