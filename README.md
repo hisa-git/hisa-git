@@ -7,3 +7,5 @@ I'm a developer focused on scalable web applications and data-driven visualizati
 - Infrastructure: Docker, Docker Compose, Linux, RabbitMQ, Git
 - AI/ML:          PyTorch, NumPy, SciPy, Classical Machine Learning
 - Exploring:      Go, Spring Boot, Linear algebra
+> [!IMPORTANT]  
+> Now i'm working on GitLab because of technical and ideological reasons.
